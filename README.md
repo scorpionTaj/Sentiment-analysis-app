@@ -15,7 +15,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/sentiment-analysis-app.git
+git clone https://github.com/scorpionTaj/sentiment-analysis-app.git
 ```
 2. Navigate to the project directory:
 
