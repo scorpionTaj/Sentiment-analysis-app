@@ -15,13 +15,13 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/scorpionTaj/Sentiment-analysis-of-the-comments.git
+git clone https://github.com/scorpionTaj/Sentiment-analysis-app.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Sentiment-analysis-of-the-comments
+cd Sentiment-analysis-app
 ```
 
 3. Install the required dependencies:
