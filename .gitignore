@@ -8,6 +8,8 @@ Data_Mining_Project.ipynb
 
 # Ignore node modules
 node_modules/
+.git/
+.gitignore
 
 # Ignore Python virtual environments
 venv/
