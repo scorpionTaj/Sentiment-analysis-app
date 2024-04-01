@@ -4,6 +4,7 @@ Thumbs.db
 
 # Custom ignore
 NLP.pptx
+Data_Mining_Project.ipynb
 
 # Ignore node modules
 node_modules/
