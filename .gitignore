@@ -1,0 +1,38 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Custom ignore
+NLP.pptx
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore application specific files
+*.log
+*.cache
+*.pyc
+*.pyo
+*.db
+*.sqlite
+
+# Ignore Jupyter Notebook
+.ipynb_checkpoints
+__pycache__/
+
+# Ignore data files
+*.csv
+*.json
+*.xml
+*.html
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
