@@ -2,9 +2,6 @@
 
 This is a Streamlit web application for sentiment analysis. Given a text input, the application predicts whether the sentiment of the text is positive or negative.
 
-## Demo 
-Live Demo : https://huggingface.co/spaces/ScorpionTaj/Sentiment-analysis-app
-
 ## Features
 
 - Allows users to input text for sentiment analysis.
